@@ -1,0 +1,14 @@
+{
+  "targets": {
+    "kobulovmytodolist": {
+      "hosting": {
+        "firebase-todolist": [
+          "kobulovmytodolist"
+        ]
+      }
+    }
+  },
+  "projects": {
+    "default": "kobulovmytodolist"
+  }
+}
